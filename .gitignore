@@ -4,6 +4,8 @@ __pycache__/
 *$py.class
 
 glove.6B.300d.txt
+GoogleNews-vectors-negative300.bin
+cc.az.300.vec
 
 # C extensions
 *.so
